@@ -17,8 +17,3 @@
 6. Import votesystem.sql file(given inside the zip package in SQL file folder)
 
 7.Run the script http://localhost/voting management system
-
-username  Nurhodelta
-password  password
-
-Brought to you by: www.CampCodes.com
